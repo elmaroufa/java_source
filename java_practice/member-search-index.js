@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"java_practice","c":"DocumentCode","l":"addNumbers(BigInteger[])","u":"addNumbers(java.math.BigInteger[])"},{"p":"java_practice","c":"DocumentCode","l":"DocumentCode()","u":"%3Cinit%3E()"},{"p":"java_practice","c":"DocumentCode","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
